@@ -1,7 +1,6 @@
 #include <iostream>
-#include "base64.h"
 #include <string.h>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
