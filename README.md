@@ -5,7 +5,7 @@
 [1]: https://travis-ci.org/xtaci/algorithms.svg?branch=master
 [2]: https://travis-ci.org/xtaci/algorithms
 
-#### 目标 ( goal ) :
+####  ( goal ) :
 
    1. 经典的算法实现      
       (classical algorithms implementations)      
