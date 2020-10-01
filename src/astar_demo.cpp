@@ -4,7 +4,7 @@
 #include "astar.h"
 
 #define N 128
-
+#define YES Y
 #define MARK 0xEE
 
 int main(void)
