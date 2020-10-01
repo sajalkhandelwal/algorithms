@@ -2,8 +2,8 @@
 #include <iostream>
 #include "LRU_cache.h"
 
-using namespace std;
 using namespace alg;
+using namespace std;
 
 int main() {
 		
