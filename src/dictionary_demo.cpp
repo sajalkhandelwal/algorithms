@@ -6,6 +6,8 @@
 using namespace alg;
 using namespace std::chrono;
 
+#define YES Y
+
 int main(void) {
 	
 	Dictionary<int, int> dict;
